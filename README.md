@@ -1,6 +1,5 @@
 # SAS
-Bu repozitoriyada SGH Varşava İqtisadiyyat Məktəbi universitetinin "Sas ilə Logistik Reqressiya" dərsi ilə bağlı Sas kodları var.
-
+This repository contains Sas codes related to SGH Warsaw School of Economics university's 'Logistic Regression with Sas' lesson.
 
 
 
